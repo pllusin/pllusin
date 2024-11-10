@@ -50,8 +50,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 <br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-<br>
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br>
 
@@ -73,6 +71,8 @@
 
 <br>
 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<br>
 
 ## GitHub Stats 📈 :
 
@@ -90,13 +90,15 @@
 
 <br>
 
-## Activity Graph 📊 :
+## Donate ME ❤️ :
 
-<br>
+IRR :
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pllusin&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div class="daramet-embed-donate" id="5213"><script src="https://daramet.com/embed/script.js"></script></div>
 
----
+Crypto :
+
+
 
 Credit: [Pllusin](https://github.com/Pllusin)
 
