@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="Pllusin.com" src="./assets/oh hi there.png" width="300"/>
+    <img alt="Pllusin.com" src="https://github.com/pllusin/pllusin/blob/main/windows-11-stock-black-abstract-black-background-amoled-2560x1080-8971.jpg" width="300"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm  Pllusin</h1>
 
