@@ -10,7 +10,7 @@
 - 🏢 I am currently working as a **Junior DevOPS Engineer** at Home 🏠
 - 🎓 Studies for DevOPS at [Arvan CLoud Academy](https://academy.arvancloud.ir/)
 - 🏡'Lives in **IRAN,YAZD**
-- 🐧![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) Fan :) 
+- 🐧 Linux User For 8 Years
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
