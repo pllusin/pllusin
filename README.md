@@ -20,7 +20,7 @@
 <br>
 
 [![@Pllusin](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Plusiin")](https://www.instagram.com/Plusiin/)  [![@Pllusin](https://img.icons8.com/fluency/48/000000/linkedin.png "@Pllusin")](https://www.linkedin.com/in/mohammad-erfan-khanizadeh/) [![@pllusin4040](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pllusin4040")](https://twitter.com/plluain4040)  [![@duwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pllusin404@gmail.com")](pllusin404@gmail.com)
-[![@Pllusin](https://img.icons8.com/?size=35&id=yEmPT1iidhE0&format=png&color=000000)](https://t.me/pllusin)
+[![@Pllusin](https://img.icons8.com/?size=40&id=yEmPT1iidhE0&format=png&color=000000)](https://t.me/pllusin)
 
 <br>
 
