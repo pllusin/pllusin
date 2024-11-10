@@ -10,7 +10,7 @@
 - 🏢 I am currently working as a **Junior DevOPS Engineer** at Home 🏠
 - 🎓 Studies for DevOPS at [Arvan CLoud Academy](https://academy.arvancloud.ir/)
 - 🏡'Lives in **IRAN,YAZD**
-- 🐧 Im A Arch Linux Fan :) 
+- 🐧![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) Fan :) 
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
@@ -19,29 +19,28 @@
 
 <br>
 
-[![@Pllusin](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Plusiin")](https://www.instagram.com/Plusiin/)  [![@Pllusin](https://img.icons8.com/fluency/48/000000/linkedin.png "@Pllusin")](https://www.linkedin.com/in/Pllusin/) [![@_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@_wije")](https://twitter.com/_wije) [![@07111313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@07111313")](tel:07111313) [![@duwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@duwolka123@gmail.com")](duwolka123@gmail.com)
+[![@Pllusin](https://img.icons8.com/fluency/48/000000/instagram-new.png "@Plusiin")](https://www.instagram.com/Plusiin/)  [![@Pllusin](https://img.icons8.com/fluency/48/000000/linkedin.png "@Pllusin")](https://www.linkedin.com/in/mohammad-erfan-khanizadeh/) [![@_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@pllusin4040")](https://twitter.com/plluain4040)  [![@duwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@pllusin404@gmail.com")](pllusin404@gmail.com)
 
 <br>
 
 ## What I am Good at 🧑‍💻 :
 
 <br>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br>
 
 ## GitHub Stats 📈 :
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pllusin&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Pllusin GitHub stats](https://github-readme-stats.vercel.app/api?username=Pllusin&theme=algolia)](https://github.com/Pllusin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pllusin&theme=algolia)](https://github.com/Pllusin/github-readme-stats) [![Pllusin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf&theme=algolia)](https://github.com/WinterWolf/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pllusin&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Pllusin GitHub stats](https://github-readme-stats.vercel.app/api?username=Pllusin&theme=algolia)](https://github.com/Pllusin/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pllusin&theme=algolia)](https://github.com/Pllusin/github-readme-stats) [![Pllusin wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pllusin&theme=algolia)](https://github.com/pllusin/github-readme-stats)
 
 <br>
 
@@ -63,4 +62,4 @@
 
 Credit: [Pllusin](https://github.com/Pllusin)
 
-Last edited on: 30/06/2022
+Last edited on: 10/11/2024
