@@ -94,9 +94,16 @@
 
 IRR :
 
-<div class="daramet-embed-donate" id="5213"><script src="https://daramet.com/embed/script.js"></script></div>
+<a href="https://daramet.com/plusin"><img src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png" width="280px" class="mt-[10px]"></a>
+
 
 Crypto :
+
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white) **bc1qugkdwsepr2sw3sphavy2ch8wrmsytj8e3wrvd4**
+<br>
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) **0x83dB60ec084B31FB864658C201bE7992B6345706**
+<br>
+![Tether](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)TRC20 **TJeLE9mwU8z1fbXBJXPy8AAup3Ls4TycCZ**
 
 
 
