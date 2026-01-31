@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Junior DevOPS Engineer** at Home 🏠
+- 🏢 I am currently working as a **Mid-Level DevOPS Engineer** at Home 🏠
 - 🎓 Studies for DevOPS at [Arvan CLoud Academy](https://academy.arvancloud.ir/)
 - 🏡'Lives in **IRAN,YAZD**
 - 🐧 Linux User For 8 Years
@@ -51,7 +51,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 <br>
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 <br>
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
